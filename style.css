@@ -1,0 +1,43 @@
+html {
+    background-color: blanchedalmond
+}
+#page-title {
+    color: aliceblue;
+    text-shadow: 2px 2px 8px #000000;
+    font-size: 50px;
+    text-align: center;
+    font-family: ;
+}
+.sub {
+    color: aliceblue;
+    text-shadow: 2px 2px 8px #000000;
+    font-size: 40px;
+}
+.center {
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+}
+
+.breadcrumb {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+ul#horizontal-list {
+    min-width: 696px;
+    text-align: center;
+    float: none;
+}
+
+ul#horizontal-list li {
+    display: inline-block;
+    padding-left: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
